@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{510C2575-747C-4E66-81F1-5A0B9DE80719}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,79 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestimonialController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\TestimonialController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\TestimonialController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\TestimonialController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\TestimonialController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T07:46:58.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SocialMediaController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\SocialMediaController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\SocialMediaController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\SocialMediaController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\SocialMediaController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T07:45:50.885Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T13:04:18.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T07:45:26.649Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T13:00:32.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FeatureController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\FeatureController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\FeatureController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\FeatureController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\FeatureController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T07:36:31.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DiscountController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\DiscountController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\DiscountController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T07:36:00.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T07:31:33.714Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:15:29.258Z",
               "EditorCaption": ""
             }
           ]

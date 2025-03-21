@@ -101,6 +101,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj"
+              },
               "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
                 "projectPath": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj"
               }

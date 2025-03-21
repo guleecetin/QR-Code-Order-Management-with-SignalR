@@ -940,6 +940,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.5",
+          "SignalR.DtoLayer": "1.0.0",
           "SignalR.EntityLayer": "1.0.0"
         },
         "runtime": {
