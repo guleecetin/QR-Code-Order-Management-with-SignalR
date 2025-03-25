@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutscriptcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrwebui\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB12B81-33CA-476D-92CD-A63B339CB3EF}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1322,
+          "DockedWidth": 1377,
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -39,46 +31,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "SignalRWebUI\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T13:04:18.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutScriptComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T13:00:32.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeToolTip": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T10:15:29.258Z",
+              "WhenOpened": "2025-03-25T13:19:39.386Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 389,
+          "DockedWidth": 334,
           "SelectedChildIndex": -1,
           "Children": [
             {
